@@ -3,10 +3,10 @@
 A lightweight, high-performance native macOS system monitoring tool that lives entirely in your Menu Bar and offers an interactive desktop widget. Built from scratch using **Swift and SwiftUI**.
 
 <p align="center">
-  <img src="https://shields.io" alt="Platform: macOS">
-  <img src="https://shields.io" alt="macOS Sonoma Required">
-  <img src="https://shields.io" alt="Architecture: Universal">
-  <img src="https://shields.io" alt="License: MIT">
+  <img src="https://img.shields.io/badge/Platform-macOS-000000?style=flat&logo=apple" alt="Platform: macOS">
+  <img src="https://img.shields.io/badge/macOS-Sonoma%20Required-005A9C?style=flat" alt="macOS Sonoma Required">
+  <img src="https://img.shields.io/badge/Architecture-Universal-orange?style=flat">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat" alt="License: MIT">
 </p>
 
 ---
@@ -69,6 +69,4 @@ This project is open-source and distributed under the terms of the **MIT License
 
 If you find **MacRadar** useful and want to support its further development, you can buy the developer a coffee or send a donation! Any support is highly appreciated.
 
-[![Donate](https://shields.io)](https://your-donate-link.com)
-
-- **Crypto (USDT TRC20):** `ВАШ_АДРЕС_КОШЕЛЬКА`
+- **Crypto (USDT TRC20):** `TCvyqhMS8FQkyX7xbm4jRr6kBz9YJAJWbn`
